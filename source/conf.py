@@ -19,7 +19,7 @@
 
 project = 'Sinupy Doc'
 copyright = '2021, jiaxin.li'
-author = 'jiaxin.li'
+author = 'jiaxin.li & wenyin.wei'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
@@ -32,8 +32,6 @@ release = '0.1'
 # ones.
 extensions = [
 	'recommonmark',
-	'sphinx_markdown_tables',
-	'sphinxemoji.sphinxemoji',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

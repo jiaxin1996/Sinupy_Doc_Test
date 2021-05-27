@@ -3,7 +3,7 @@ recommonmark
 # markdown table suport
 sphinx-markdown-tables
 #emoji
-sphinxemoji
+#sphinxemoji
 
 # theme default rtd
 
